@@ -1,7 +1,5 @@
-import React from "react";
-
 const CreditPage = () => {
-  return <div>credits Page here</div>;
+  return <div>credit page</div>;
 };
 
 export default CreditPage;

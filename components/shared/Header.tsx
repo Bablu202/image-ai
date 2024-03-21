@@ -1,3 +1,4 @@
+import { auth } from "@clerk/nextjs";
 import React from "react";
 
 const Header = ({ title, subtitle }: { title: string; subtitle?: string }) => {
